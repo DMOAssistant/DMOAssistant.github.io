@@ -1,8 +1,10 @@
 # NADMO 登录与更新教程
 > 数码宝贝大师北美服（原国际服）国人群：606731979 
+> 可从群文件中高速下载相关文件
 
-## 节点管理
+## 节点
 - 下载 [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.45/v2rayN-With-Core.zip)，解压并启动 ![alt text](image-19.png)
+- 安装 .Net Framework(dotnet-sdk)，启动 v2rayN 时会自动打开网页下载
 - 购买节点
     - 从 v2rayN 中的“推广”中选择适合你的
 
@@ -26,7 +28,7 @@
     ![alt text](image-9.png)
 
 
-## DMO 代理
+## DMO 数据转发
 - 下载安装 [Proxifier](download/ProxifierSetupV4.11.exe)，激活码:
 PFH9R-4WMUS-FQF2H-DR01D-NJRE3
 - 设置本地代理服务器
@@ -42,14 +44,20 @@ PFH9R-4WMUS-FQF2H-DR01D-NJRE3
     - 打开规则 ![alt text](image-13.png)
     - 新增规则 ![alt text](image-14.png)
     - 设置规则 
-        - Name: 任意填写 ![alt text](image-15.png)
-        - Applications: 
-            - 用于登录游戏就填写：![alt text](image-16.png)
-            - 用于更新游戏就填写（比较费流量）：![alt text](image-20.png)            
-            - 也可以同时填写：![alt text](image-21.png)
-        - Action: ![alt text](image-17.png)
-        - 点击 ![alt text](image-18.png)
+        - ![alt text](image-22.png) 任意填写
+        - ![alt text](image-15.png)
+            - 用于登录游戏：
+            
+                ![alt text](image-23.png)
+            - 用于更新游戏（比较费流量）：
+                
+                ![alt text](image-24.png)  
+            - 也可以同时填写，或新增多条规则：
+                
+                ![alt text](image-25.png)
+        - ![alt text](image-26.png)
+        - 点击 ![alt text](image-27.png)
 
 
-## 爽玩
-如题
+## 免责申明
+本教程仅面向登录数码宝贝大师北美服游戏这一目的，请勿用于其他任何违反当地法律的后果，否则请立即删除全部文件，所造成的一切后果与本教程无关。
