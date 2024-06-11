@@ -1,6 +1,7 @@
 # NADMO 登录与更新教程
 > 数码宝贝大师北美服（原国际服）国人群：606731979 
-> 可从群文件中高速下载相关文件
+>
+> 群文件高速下载相关文件
 
 ## 节点
 - 下载 [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.45/v2rayN-With-Core.zip)，解压并启动 ![alt text](image-19.png)
