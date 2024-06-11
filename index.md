@@ -42,25 +42,13 @@ PFH9R-4WMUS-FQF2H-DR01D-NJRE3
     - 打开规则 ![alt text](image-13.png)
     - 新增规则 ![alt text](image-14.png)
     - 设置规则 
-        - Name: 任意填写 
-
-            ![alt text](image-15.png)
+        - Name: 任意填写 ![alt text](image-15.png)
         - Applications: 
-            - 用于登录游戏就填写：gdmo.exe
-
-            ![alt text](image-16.png)
-            - 用于更新游戏就填写（比较废流量）：dmlauncher.exe
-
-            ![alt text](image-20.png)            
-            - 也可以同时填写
-            
-            ![alt text](image-21.png)
-        - Action: Proxy 
-
-            ![alt text](image-17.png)
-        - 点击 OK 
-
-            ![alt text](image-18.png)
+            - 用于登录游戏就填写：![alt text](image-16.png)
+            - 用于更新游戏就填写（比较费流量）：![alt text](image-20.png)            
+            - 也可以同时填写：![alt text](image-21.png)
+        - Action: ![alt text](image-17.png)
+        - 点击 ![alt text](image-18.png)
 
 
 ## 爽玩
