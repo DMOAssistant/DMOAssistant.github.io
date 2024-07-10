@@ -1,7 +1,9 @@
+---
+layout: article
+---
 # NADMO 登录与更新教程
-> 数码宝贝大师北美服（原国际服）国人群：606731979 
->
-> 群文件高速下载相关文件
+
+> 使用条款：本教程仅供数码宝贝大师北美服务器游戏之目的，严禁将其用于任何违反当地法律法规的行为。任何偏离教程指引的设置操作均与本教程无关，因此所造成的一切后果也与本教程无关。使用本教程即表示您已阅读并同意遵守上述条款。
 
 ## 节点
 - 下载 [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.45/v2rayN-With-Core.zip)，解压并启动 ![alt text](image-19.png)
@@ -30,7 +32,7 @@
 
 
 ## DMO 数据转发
-- 下载安装 [Proxifier](download/ProxifierSetupV4.11.exe)，激活码:
+- 下载安装 [Proxifier](/download/ProxifierSetupV4.11.exe)，激活码:
 PFH9R-4WMUS-FQF2H-DR01D-NJRE3
 - 设置本地代理服务器
 
@@ -58,7 +60,3 @@ PFH9R-4WMUS-FQF2H-DR01D-NJRE3
                 ![alt text](image-25.png)
         - ![alt text](image-26.png)
         - 点击 ![alt text](image-27.png)
-
-
-## 使用条款
-本教程仅供数码宝贝大师北美服务器游戏之目的，严禁将其用于任何违反当地法律法规的行为。任何偏离教程指引的设置操作均与本教程无关，因此所造成的一切后果也与本教程无关。使用本教程即表示您已阅读并同意遵守上述条款。
